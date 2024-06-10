@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on [Simple Calculator](https://github.com/RavenGoku/My_Calc)  
+- 🔭 I’m currently working on [Production Machine Servising Aid]()  
   
 
-- 🌱 I’m currently learning Android 14 & Kotlin Development Masterclass  
+- 🌱 I’m currently learning WPF MVVM Pattern  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -18,6 +18,7 @@
 <a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" height="50" /></a>
 <a href="https://visualstudio.microsoft.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="VS" height="50" /></a>
 <a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="UE" height="50" /></a>
+<a href="https://www.unrealengine.com/en-US" target="_blank"><img style="margin: 10px" src="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" alt="UE" height="50" /></a>
 </div>  
 
 <br/>  
